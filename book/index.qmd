@@ -1,9 +1,21 @@
-# Preface {.unnumbered}
+---
+title-block-banner: true
+---
 
-This is a Quarto book.
+# About this course {.unnumbered}
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+## Learning objectives
 
-```{r}
-1 + 1
-```
+- The students are familiar with the different types of droughts that affect Switzerland (hydrological, meteorological, and agricultural). 
+- The students know how droughts are monitored both *in-situ* and using remote sensing and meteorological observations and know how to analyse drought monitoring data.
+- The students know about the impacts of droughts on agriculture and forests in Switzerland.
+- The students are familiar with drought adaptation strategies for various sectors in Switzerland.
+
+## Target audience and prerequisites
+
+Master students in *Geography* at the University of Bern. 
+
+-------
+This course is taught by Prof. Olivia Romppainen-Martius, Prof. Adrien Mestrot, and Prof. [Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/) and assisted by [Ananda Kurth](https://geco-group.org/author/ananda-kurth/).
+
+![](./images/logo_unibern_squid3.png){width="30%"}

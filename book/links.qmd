@@ -1,0 +1,11 @@
+# Links
+
+## MeteoSchweiz Stationsdaten
+
+[Daten ohne Programmierkenntnisse herunterladen](https://www.meteoschweiz.admin.ch/service-und-publikationen/applikationen/ext/daten-ohne-programmierkenntnisse-herunterladen.html#lang=de&mdt=normal&pgid=&sid=&col=&di=&tr=&hdr=)
+
+[Daten via API herunterladen](https://opendatadocs.meteoswiss.ch/de/a-data-groundbased/a1-automatic-weather-stations?Datenstruktur=eine-datei-mit-allen-stationen)
+
+## ERA5 climate reanalysis
+
+[ERA5 Land hourly time-series data from 1950 to present](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview)

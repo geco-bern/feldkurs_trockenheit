@@ -1,0 +1,14 @@
+# Course design
+
+## Theme and context
+
+Extreme weather requires adaptations in the management of natural resources, including water resources, biodiversity, soil cultivation in agriculture, and planning for climate-smart forestry. Information and near-term predictions of climate impacts are generated through diverse continuous measurements and remote sensing of the atmosphere, hydrological systems, soils, and ecosystems. In combination with extended-range numerical weather prediction, this information can inform planning and interventions on a variety of levels. The recently launched National Drought Platform (https://www.trockenheit.admin.ch) gathers such information and makes it publicly available in a form that satisfies diverse demands by different stakeholders.  
+
+This field course familiarizes students with a multitude of observational system and measurement types, provides hands-on experiences with measurements in the field, and lets students take the perspective and learn about practices and demands by various stakeholders. 
+
+## Goal
+
+The course consists of a preparatory phase, and a field phase. During the preparatory phase, information on the current (i.e., weeks leading up to the field phase) level of drought, considering a set of relevant Earth system variables, is gathered and interpreted in the context of the climatology (past 30 years), of medium (15 d) to seasonal forecasts, and of climate change projections. 
+
+The field phase consists of visits at several institutions, research sites, and localities that deal with droughts, their impacts, and adaptation. Students will familiarise themselves with the different perspectives from different stakeholders and learn about processes that drive drought impacts in different natural spheres and socio-economic domains. 
+
