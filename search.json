@@ -2,36 +2,111 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Book Title",
+    "title": "Feldkurs Schweiz",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "About this course",
+    "crumbs": [
+      "Home",
+      "About this course"
+    ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Feldkurs Schweiz",
+    "section": "Learning objectives",
+    "text": "Learning objectives\n\nThe students are familiar with the different types of droughts that affect Switzerland (hydrological, meteorological, and agricultural).\nThe students know how droughts are monitored both in-situ and using remote sensing and meteorological observations and know how to analyse drought monitoring data.\nThe students know about the impacts of droughts on agriculture and forests in Switzerland.\nThe students are familiar with drought adaptation strategies for various sectors in Switzerland.",
+    "crumbs": [
+      "Home",
+      "About this course"
+    ]
   },
   {
-    "objectID": "basicr.html",
-    "href": "basicr.html",
-    "title": "2  Basic R",
-    "section": "",
-    "text": "2.0.1 Basic expressions\nAn expression is a set of commands that returns a value.\nClick Run Code to run the following R code.\nExecute this simple calculation.\n\n50 * 2.2\n\n[1] 110\n\n\nShow the first rows of a table.\n\nhead(mtcars)\n\n                   mpg cyl disp  hp drat    wt  qsec vs am gear carb\nMazda RX4         21.0   6  160 110 3.90 2.620 16.46  0  1    4    4\nMazda RX4 Wag     21.0   6  160 110 3.90 2.875 17.02  0  1    4    4\nDatsun 710        22.8   4  108  93 3.85 2.320 18.61  1  1    4    1\nHornet 4 Drive    21.4   6  258 110 3.08 3.215 19.44  1  0    3    1\nHornet Sportabout 18.7   8  360 175 3.15 3.440 17.02  0  0    3    2\nValiant           18.1   6  225 105 2.76 3.460 20.22  1  0    3    1\n\n\n\n\n\n\n\n\nExercise\n\n\n\nShow the last rows of the mtcars table.\n\n# Add you code here\n\nYour result should look like the plot below\n\n\n\n\n\n\n\n\nExpected Result\n\n\n\n\n\n\n\n                mpg cyl  disp  hp drat    wt qsec vs am gear carb\nPorsche 914-2  26.0   4 120.3  91 4.43 2.140 16.7  0  1    5    2\nLotus Europa   30.4   4  95.1 113 3.77 1.513 16.9  1  1    5    2\nFord Pantera L 15.8   8 351.0 264 4.22 3.170 14.5  0  1    5    4\nFerrari Dino   19.7   6 145.0 175 3.62 2.770 15.5  0  1    5    6\nMaserati Bora  15.0   8 301.0 335 3.54 3.570 14.6  0  1    5    8\nVolvo 142E     21.4   4 121.0 109 4.11 2.780 18.6  1  1    4    2"
+    "objectID": "index.html#target-audience-and-prerequisites",
+    "href": "index.html#target-audience-and-prerequisites",
+    "title": "Feldkurs Schweiz",
+    "section": "Target audience and prerequisites",
+    "text": "Target audience and prerequisites\nMaster students in Geography at the University of Bern.\n\nThis course is taught by Prof. Olivia Romppainen-Martius, Prof. Adrien Mestrot, and Prof. Benjamin Stocker and assisted by Ananda Kurth.",
+    "crumbs": [
+      "Home",
+      "About this course"
+    ]
   },
   {
-    "objectID": "ggplot.html",
-    "href": "ggplot.html",
-    "title": "3  ggplot demo",
+    "objectID": "design.html",
+    "href": "design.html",
+    "title": "1  Course design",
     "section": "",
-    "text": "library(ggplot2)\n\nggplot(data = mtcars, mapping = aes(x = mpg, y = hp)) + \n  geom_point()"
+    "text": "1.1 Theme and context\nExtreme weather requires adaptations in the management of natural resources, including water resources, biodiversity, soil cultivation in agriculture, and planning for climate-smart forestry. Information and near-term predictions of climate impacts are generated through diverse continuous measurements and remote sensing of the atmosphere, hydrological systems, soils, and ecosystems. In combination with extended-range numerical weather prediction, this information can inform planning and interventions on a variety of levels. The recently launched National Drought Platform (https://www.trockenheit.admin.ch) gathers such information and makes it publicly available in a form that satisfies diverse demands by different stakeholders.\nThis field course familiarizes students with a multitude of observational system and measurement types, provides hands-on experiences with measurements in the field, and lets students take the perspective and learn about practices and demands by various stakeholders.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course design</span>"
+    ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "design.html#goal",
+    "href": "design.html#goal",
+    "title": "1  Course design",
+    "section": "1.2 Goal",
+    "text": "1.2 Goal\nThe course consists of a preparatory phase, and a field phase. During the preparatory phase, information on the current (i.e., weeks leading up to the field phase) level of drought, considering a set of relevant Earth system variables, is gathered and interpreted in the context of the climatology (past 30 years), of medium (15 d) to seasonal forecasts, and of climate change projections.\nThe field phase consists of visits at several institutions, research sites, and localities that deal with droughts, their impacts, and adaptation. Students will familiarise themselves with the different perspectives from different stakeholders and learn about processes that drive drought impacts in different natural spheres and socio-economic domains.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course design</span>"
+    ]
+  },
+  {
+    "objectID": "plan.html",
+    "href": "plan.html",
+    "title": "2  Course plan",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "2.1 Preparatory phase",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
+    ]
+  },
+  {
+    "objectID": "plan.html#preparatory-phase",
+    "href": "plan.html#preparatory-phase",
+    "title": "2  Course plan",
+    "section": "",
+    "text": "2.1.1 Afternoon session 1 (20.04.2026)\n\nCourse logistics, programme, learning objectives\nIntroduction to summer droughts in Switzerland, drought monitoring\nIdentification of essential variables\nStarting points for data download, analysis, and interpretation. Analysis should put current state into a multi-year reference\nApproach to collecting stakeholder perspectives, guiding field visits\n\n\n\n2.1.2 Afternoon session 2 (11.05.2026)\n\nSupport for data download, analysis, and interpretation\nConsolidate questions stakeholders to a common set\nPreparation/guidance for presentation (structure)",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
+    ]
+  },
+  {
+    "objectID": "plan.html#field-phase",
+    "href": "plan.html#field-phase",
+    "title": "2  Course plan",
+    "section": "2.2 Field phase",
+    "text": "2.2 Field phase\n\n\n\n\n\n\n\n\n\nDate\nDay\nMorning\nAfternoon\n\n\n\n\n8.6.\nMo\nPresentation and discussionWeather outlook\nStadt Bern (Rundgang)\n\n\n9.6.\nDi\nSwisstopo\nBAFU\n\n\n10.6.\nMi\nDOK Trial Therwil\nDOK Trial Therwil\n\n\n11.6.\nDo\nKanton Freiburg\nMeteoSuisse, Payerne\n\n\n12.6.\nFr\nDrought experiment (Biology, Uni Bern)\nBurgergemeinde Bern\n\n\n14.6.\nSo\n\nTravel to Wallis\n\n\n15.6.\nMo\nIntegrales Wasserressourcenmanagement, Naters\nIntegrales Wasserressourcenmanagement, NatersFireside input\n\n\n16.6.\nDi\nDrought experiment Pfynwald (WSL)\nWildfire LeukReturn to Bern",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
+    ]
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "3  Links",
+    "section": "",
+    "text": "3.1 MeteoSchweiz Stationsdaten\nDaten ohne Programmierkenntnisse herunterladen\nDaten via API herunterladen",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Links</span>"
+    ]
+  },
+  {
+    "objectID": "links.html#era5-climate-reanalysis",
+    "href": "links.html#era5-climate-reanalysis",
+    "title": "3  Links",
+    "section": "3.2 ERA5 climate reanalysis",
+    "text": "3.2 ERA5 climate reanalysis\nERA5 Land hourly time-series data from 1950 to present",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Links</span>"
+    ]
   }
 ]
