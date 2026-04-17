@@ -1,6 +1,6 @@
-# 1 Logistik
+# Logistik
 
-## 1.1 Allgemeine Informationen
+## Allgemeine Informationen
 * Leitung: Prof. [Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/); Mitwirkung: Prof. Adrien Mestrot, Prof. Olivia Romppainen-Martius – Geographisches Institut (GIUB), Universität Bern.
 
 * Die Unterrichtssprache ist Deutsch und/oder Englisch.
@@ -15,7 +15,7 @@
 
 * Leistungsnachweis: Präsentation (20%), Fragen an Referierende (20%) und Bericht (60%)
 
-## 1.2 Thema und Kontext
+## Thema und Kontext
 
 Extreme Wetterereignisse erfordern Anpassungen im Management natürlicher Ressourcen, einschließlich Wasserressourcen, Biodiversität, Bodenbewirtschaftung in der Landwirtschaft sowie der Planung einer klimafitten Forstwirtschaft. Informationen sowie kurzfristige Vorhersagen zu Klimaauswirkungen werden durch vielfältige kontinuierliche Messungen und Fernerkundung der Atmosphäre, hydrologischer Systeme, Böden und Ökosysteme gewonnen. In Kombination mit numerischen Wettervorhersagen über einen erweiterten Zeitraum können diese Informationen Planungsprozesse und Maßnahmen auf unterschiedlichen Ebenen unterstützen.
 
@@ -23,7 +23,7 @@ Die kürzlich lancierte Nationale Dürreplattform (https://www.trockenheit.admin
 
 Dieser Feldkurs macht die Studierenden mit einer Vielzahl von Beobachtungssystemen und Messmethoden vertraut, bietet praktische Erfahrungen im Feld und ermöglicht es den Studierenden, die Perspektiven verschiedener Anspruchsgruppen einzunehmen sowie deren Praktiken und Anforderungen kennenzulernen.
 
-## 1.3 Kursaufbau
+## Kursaufbau
 
 Der Kurs besteht aus einer Vorbereitungsphase und einer Feldphase. Während der Vorbereitungsphase werden Informationen über den aktuellen Dürrezustand (d.h. in den Wochen vor der Feldphase) unter Berücksichtigung relevanter Erdsystemvariablen erhoben und im Kontext der Klimatologie der letzten 30 Jahre, mittelfristiger (ca. 15 Tage) bis saisonaler Vorhersagen sowie von Klimawandelprojektionen interpretiert.
 
@@ -57,7 +57,7 @@ Die Feldphase umfasst Besuche bei verschiedenen Institutionen, Forschungsstandor
 
 Die im Rahmen der Vorbereitungsphase erarbeiteten Datenauswertungen, Visualisierungen, Literaturrecherchen und Fragestellungen bilden die Grundlage für die Präsentationen, die Diskussionen mit den Stakeholdern vor Ort sowie den abschliessenden schriftlichen Bericht.
   
-## 1.4 Arbeitsaufträge und Leistungsnachweis
+## Arbeitsaufträge und Leistungsnachweis
 
 Im Rahmen des Feldkurses übernehmen die Studierenden bereits vor Beginn der Feldphase eigenständige Arbeiten in den Bereichen Datenbeschaffung, Datenanalyse und Datenvisualisierung. Die aufbereiteten Ergebnisse werden am ersten Tag des Blockkurses in einer Gruppenpräsentation vorgestellt.
 
