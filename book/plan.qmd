@@ -1,8 +1,8 @@
-# 2 Kursplan
+# Kursplan
 
-## 2.1 Vorbereitungsphase
+## Vorbereitungsphase
 
-### 2.1.1 Nachmittagssession 1 (20.04.2026)
+### Nachmittagssession 1 (20.04.2026)
 
 * Kursorganisation, Programm und Lernziele
 * Einführung in Sommertrockenheit in der Schweiz und Dürremonitoring
@@ -10,13 +10,13 @@
 * Einstieg in Datenzugang, -analyse und -interpretation; Einordnung des aktuellen Zustands in einen mehrjährigen Referenzzeitraum
 * Vorgehen zur Erhebung von Stakeholder-Perspektiven und Vorbereitung der Exkursionsbesuche
 
-### 2.1.2 Nachmittagssession 2 (11.05.2026)
+### Nachmittagssession 2 (11.05.2026)
 
 * Unterstützung beim Datenzugang, bei der Analyse und Interpretation
 * Konsolidierung der Fragen an Stakeholder zu einem gemeinsamen Fragenkatalog
 * Vorbereitung und Anleitung für Präsentationen (Struktur und Aufbau)
 
-## 2.2 Feldphase
+## Feldphase
 
 | Datum     | Tag | Morgen                                              | Nachmittag                                     |
 |-----------|-----|-----------------------------------------------------|------------------------------------------------|
