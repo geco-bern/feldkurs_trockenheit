@@ -4,109 +4,175 @@
     "href": "index.html",
     "title": "Feldkurs Schweiz",
     "section": "",
-    "text": "About this course",
+    "text": "Über diesen Kurs",
     "crumbs": [
       "Home",
-      "About this course"
+      "Über diesen Kurs"
     ]
   },
   {
-    "objectID": "index.html#learning-objectives",
-    "href": "index.html#learning-objectives",
+    "objectID": "index.html#lernziele",
+    "href": "index.html#lernziele",
     "title": "Feldkurs Schweiz",
-    "section": "Learning objectives",
-    "text": "Learning objectives\n\nThe students are familiar with the different types of droughts that affect Switzerland (hydrological, meteorological, and agricultural).\nThe students know how droughts are monitored both in-situ and using remote sensing and meteorological observations and know how to analyse drought monitoring data.\nThe students know about the impacts of droughts on agriculture and forests in Switzerland.\nThe students are familiar with drought adaptation strategies for various sectors in Switzerland.",
+    "section": "Lernziele",
+    "text": "Lernziele\n\nDie Studierenden sind mit den verschiedenen Dürretypen vertraut, die die Schweiz betreffen (hydrologische, meteorologische und landwirtschaftliche Dürre)\nDie Studierenden verstehen, wie Dürren sowohl in situ als auch mithilfe von Fernerkundung und meteorologischen Beobachtungen überwacht werden, und sind in der Lage, entsprechende Monitoringdaten zu analysieren.\nDie Studierenden kennen die Auswirkungen von Dürren auf Landwirtschaft und Wälder in der Schweiz.\nDie Studierenden sind mit Anpassungsstrategien an Dürre für verschiedene Sektoren in der Schweiz vertraut.",
     "crumbs": [
       "Home",
-      "About this course"
+      "Über diesen Kurs"
     ]
   },
   {
-    "objectID": "index.html#target-audience-and-prerequisites",
-    "href": "index.html#target-audience-and-prerequisites",
+    "objectID": "index.html#zielgruppe-und-voraussetzungen",
+    "href": "index.html#zielgruppe-und-voraussetzungen",
     "title": "Feldkurs Schweiz",
-    "section": "Target audience and prerequisites",
-    "text": "Target audience and prerequisites\nMaster students in Geography at the University of Bern.\n\nThis course is taught by Prof. Olivia Romppainen-Martius, Prof. Adrien Mestrot, and Prof. Benjamin Stocker and assisted by Ananda Kurth.",
+    "section": "Zielgruppe und Voraussetzungen",
+    "text": "Zielgruppe und Voraussetzungen\nMasterstudierende der Geografie an der Universität Bern.\n\nDieser Kurs wird unterrichtet von Prof. Olivia Romppainen-Martius, Prof. Adrien Mestrot, und Prof. Benjamin Stocker.",
     "crumbs": [
       "Home",
-      "About this course"
+      "Über diesen Kurs"
     ]
   },
   {
     "objectID": "design.html",
     "href": "design.html",
-    "title": "1  Course design",
+    "title": "1  Logistik",
     "section": "",
-    "text": "1.1 Theme and context\nExtreme weather requires adaptations in the management of natural resources, including water resources, biodiversity, soil cultivation in agriculture, and planning for climate-smart forestry. Information and near-term predictions of climate impacts are generated through diverse continuous measurements and remote sensing of the atmosphere, hydrological systems, soils, and ecosystems. In combination with extended-range numerical weather prediction, this information can inform planning and interventions on a variety of levels. The recently launched National Drought Platform (https://www.trockenheit.admin.ch) gathers such information and makes it publicly available in a form that satisfies diverse demands by different stakeholders.\nThis field course familiarizes students with a multitude of observational system and measurement types, provides hands-on experiences with measurements in the field, and lets students take the perspective and learn about practices and demands by various stakeholders.",
+    "text": "1.1 Allgemeine Informationen",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course design</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistik</span>"
     ]
   },
   {
-    "objectID": "design.html#goal",
-    "href": "design.html#goal",
-    "title": "1  Course design",
-    "section": "1.2 Goal",
-    "text": "1.2 Goal\nThe course consists of a preparatory phase, and a field phase. During the preparatory phase, information on the current (i.e., weeks leading up to the field phase) level of drought, considering a set of relevant Earth system variables, is gathered and interpreted in the context of the climatology (past 30 years), of medium (15 d) to seasonal forecasts, and of climate change projections.\nThe field phase consists of visits at several institutions, research sites, and localities that deal with droughts, their impacts, and adaptation. Students will familiarise themselves with the different perspectives from different stakeholders and learn about processes that drive drought impacts in different natural spheres and socio-economic domains.",
+    "objectID": "design.html#allgemeine-informationen",
+    "href": "design.html#allgemeine-informationen",
+    "title": "1  Logistik",
+    "section": "",
+    "text": "Leitung: Prof. Benjamin Stocker, Prof. Adrien Mestrot, und Prof. Olivia Romppainen-Martius; Geographisches Institut (GIUB); Universität Bern.\nDie Unterrichtssprache ist Deutsch und/oder Englisch.\nAnzahl ECTS: 5 ECTS\nOrganisation: Der Kurs findet im Frühjahrssemester 2026 statt. Insgesamt 10 Tage bestehend aus 1-2 Tage Vorbereitung und 8/9 Tage Blockkurs im Juni (08.06.-19.06.2026). Der Blockkurs umfasst eine Reise ins Wallis mit 2 Übernachtungen.\nMaximale Teilnehmendenzahl: 30 Studierende.\nZielgruppe: Masterstudierende der Geografie\nLeistungsnachweis: Präsentation (20%), Fragen an Referierende (20%) und Bericht (60%)",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course design</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistik</span>"
+    ]
+  },
+  {
+    "objectID": "design.html#thema-und-kontext",
+    "href": "design.html#thema-und-kontext",
+    "title": "1  Logistik",
+    "section": "1.2 Thema und Kontext",
+    "text": "1.2 Thema und Kontext\nExtreme Wetterereignisse erfordern Anpassungen im Management natürlicher Ressourcen, einschließlich Wasserressourcen, Biodiversität, Bodenbewirtschaftung in der Landwirtschaft sowie der Planung einer klimafitten Forstwirtschaft. Informationen sowie kurzfristige Vorhersagen zu Klimaauswirkungen werden durch vielfältige kontinuierliche Messungen und Fernerkundung der Atmosphäre, hydrologischer Systeme, Böden und Ökosysteme gewonnen. In Kombination mit numerischen Wettervorhersagen über einen erweiterten Zeitraum können diese Informationen Planungsprozesse und Maßnahmen auf unterschiedlichen Ebenen unterstützen.\nDie kürzlich lancierte Nationale Dürreplattform (https://www.trockenheit.admin.ch) bündelt diese Informationen und stellt sie öffentlich in einer Form bereit, die den unterschiedlichen Anforderungen verschiedener Anspruchsgruppen gerecht wird.\nDieser Feldkurs macht die Studierenden mit einer Vielzahl von Beobachtungssystemen und Messmethoden vertraut, bietet praktische Erfahrungen im Feld und ermöglicht es den Studierenden, die Perspektiven verschiedener Anspruchsgruppen einzunehmen sowie deren Praktiken und Anforderungen kennenzulernen.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistik</span>"
+    ]
+  },
+  {
+    "objectID": "design.html#kursaufbau",
+    "href": "design.html#kursaufbau",
+    "title": "1  Logistik",
+    "section": "1.3 Kursaufbau",
+    "text": "1.3 Kursaufbau\nDer Kurs besteht aus einer Vorbereitungsphase und einer Feldphase. Während der Vorbereitungsphase werden Informationen über den aktuellen Dürrezustand (d.h. in den Wochen vor der Feldphase) unter Berücksichtigung relevanter Erdsystemvariablen erhoben und im Kontext der Klimatologie der letzten 30 Jahre, mittelfristiger (ca. 15 Tage) bis saisonaler Vorhersagen sowie von Klimawandelprojektionen interpretiert.\nDie Feldphase umfasst Besuche bei verschiedenen Institutionen, Forschungsstandorten und Orten, die sich mit Dürren, deren Auswirkungen und Anpassungsmaßnahmen befassen. Die Studierenden machen sich mit den unterschiedlichen Perspektiven verschiedener Anspruchsgruppen vertraut und lernen die Prozesse kennen, die Dürrefolgen in unterschiedlichen natürlichen Sphären sowie in sozioökonomischen Bereichen bestimmen.\n\nDer Kurs wird in 4 Gruppen zu je 5 Studierenden durchgeführt.\nGruppenaufteilungen:\n\nGruppe 1, Wallis: Fragen zu Naters, Pfynwald\nGruppe 2, Nordwestschweiz: Fragen zu DokTrial, BAFU, Engehalde\nGruppe 3, Fribourg: Fragen an den Kanton Freibourg, Swisstopo\nGruppe 4, Bern: Fragen an die Burgergemeinde, Stadtgrün, MeteoSchweiz, WSL\n\nJede Gruppe arbeitet mit mindestens drei verschiedenen Datentypen, z.B.:\n\nNiederschlag (MeteoSchweiz-Stationen)\n\nEinfache Berechnungen: gleitender Mittelwert über X Tage\nSPI (Standardized Precipitation Index)\n\nAbfluss (Lindas)\nNDVI (MODIS)\nBodenfeuchte (ERA5 oder Stationsdaten)\nGrundwasser (Hydrodaten)\nTreeNet\n\n\nDer Zugang und das Herunterladen der Daten wird in Chapter 3 erklärt und demonstiert.\nDie im Rahmen der Vorbereitungsphase erarbeiteten Datenauswertungen, Visualisierungen, Literaturrecherchen und Fragestellungen bilden die Grundlage für die Präsentationen, die Diskussionen mit den Stakeholdern vor Ort sowie den abschliessenden schriftlichen Bericht.",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistik</span>"
+    ]
+  },
+  {
+    "objectID": "design.html#arbeitsaufträge-und-leistungsnachweis",
+    "href": "design.html#arbeitsaufträge-und-leistungsnachweis",
+    "title": "1  Logistik",
+    "section": "1.4 Arbeitsaufträge und Leistungsnachweis",
+    "text": "1.4 Arbeitsaufträge und Leistungsnachweis\nIm Rahmen des Feldkurses übernehmen die Studierenden bereits vor Beginn der Feldphase eigenständige Arbeiten in den Bereichen Datenbeschaffung, Datenanalyse und Datenvisualisierung. Die aufbereiteten Ergebnisse werden am ersten Tag des Blockkurses in einer Gruppenpräsentation vorgestellt.\n\n1.4.1 Aufgaben vor der Feldphase\nJede Gruppe erarbeitet für ihre Region eine datengestützte Analyse zu Dürrebedingungen und deren Einordnung. Dazu gehören insbesondere:\n\nDatenbeschaffung für die jeweilige Region\nDatenanalyse und Visualisierung der relevanten Variablen\nLiteraturrecherche zur fachlichen Einordnung der Ergebnisse\nVorbereitung einer Präsentation für den ersten Kurstag\nVorbereitung von Fragen für die Referierenden und besuchten Institutionen\n\n\n\n1.4.2 Inhalt der Präsentation\nDie Präsentation (ca. 30 Minuten) soll folgende Aspekte abdecken:\n\nKlimatologie der Region, insbesondere:\n\nNiederschlag\nAbfluss\nBodenfeuchte\nEvapotranspiration\n\nHistorische Dürreereignisse\nAktuelle Messungen und gegenwärtige Bedingungen\nZukünftige Projektionen (z.B. CH2025)\nGeplante und bereits umgesetzte Massnahmen zur Anpassung an Dürre\nErkenntnisse aus der Literaturrecherche\n\nDarüber hinaus bereitet jede Gruppe Fragen für die jeweiligen Stakeholder und Referierenden vor. Die Antworten und Erkenntnisse aus den Gesprächen und Besuchen werden im Schlussbericht dokumentiert.\n\n\n1.4.3 Leitfragen für Bericht\nDer schriftliche Bericht soll sich an folgenden Leitfragen orientieren:\n\nWas lässt sich aus den Daten über die Dürresituation in der jeweiligen Region lernen?\nWelche Beobachtungen oder Ergebnisse waren besonders überraschend?\nWas wurde aus den Gesprächen mit Referierenden und aus den Exkursionsbesuchen gelernt?\nWie werden Dürren gemessen und welche Beobachtungen beziehungsweise Datengrundlagen sind dafür notwendig?\nWie sollte auf zukünftige Veränderungen in Intensität und Häufigkeit von Dürren reagiert werden?\nWelche Anpassungsmassnahmen erscheinen in der jeweiligen Region sinnvoll, realistisch oder bereits wirksam?\n\n\n\n1.4.4 Leistungsnachweis\nDie Leistungen im Feldkurs werden wie folgt bewertet:\n\nPräsentation: 20 %\nFragen an Referierende / Stakeholder: 20 %\nSchriftlicher Bericht: 60 %",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Logistik</span>"
     ]
   },
   {
     "objectID": "plan.html",
     "href": "plan.html",
-    "title": "2  Course plan",
+    "title": "2  Kursplan",
     "section": "",
-    "text": "2.1 Preparatory phase",
+    "text": "2.1 Vorbereitungsphase",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kursplan</span>"
     ]
   },
   {
-    "objectID": "plan.html#preparatory-phase",
-    "href": "plan.html#preparatory-phase",
-    "title": "2  Course plan",
+    "objectID": "plan.html#vorbereitungsphase",
+    "href": "plan.html#vorbereitungsphase",
+    "title": "2  Kursplan",
     "section": "",
-    "text": "2.1.1 Afternoon session 1 (20.04.2026)\n\nCourse logistics, programme, learning objectives\nIntroduction to summer droughts in Switzerland, drought monitoring\nIdentification of essential variables\nStarting points for data download, analysis, and interpretation. Analysis should put current state into a multi-year reference\nApproach to collecting stakeholder perspectives, guiding field visits\n\n\n\n2.1.2 Afternoon session 2 (11.05.2026)\n\nSupport for data download, analysis, and interpretation\nConsolidate questions stakeholders to a common set\nPreparation/guidance for presentation (structure)",
+    "text": "2.1.1 Nachmittagssession 1 (20.04.2026)\n\nKursorganisation, Programm und Lernziele\nEinführung in Sommertrockenheit in der Schweiz und Dürremonitoring\nIdentifikation relevanter Schlüsselvariablen\nEinstieg in Datenzugang, -analyse und -interpretation; Einordnung des aktuellen Zustands in einen mehrjährigen Referenzzeitraum\nVorgehen zur Erhebung von Stakeholder-Perspektiven und Vorbereitung der Exkursionsbesuche\n\n\n\n2.1.2 Nachmittagssession 2 (11.05.2026)\n\nUnterstützung beim Datenzugang, bei der Analyse und Interpretation\nKonsolidierung der Fragen an Stakeholder zu einem gemeinsamen Fragenkatalog\nVorbereitung und Anleitung für Präsentationen (Struktur und Aufbau)",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kursplan</span>"
     ]
   },
   {
-    "objectID": "plan.html#field-phase",
-    "href": "plan.html#field-phase",
-    "title": "2  Course plan",
-    "section": "2.2 Field phase",
-    "text": "2.2 Field phase\n\n\n\n\n\n\n\n\n\nDate\nDay\nMorning\nAfternoon\n\n\n\n\n8.6.\nMo\nPresentation and discussionWeather outlook\nStadt Bern (Rundgang)\n\n\n9.6.\nDi\nSwisstopo\nBAFU\n\n\n10.6.\nMi\nDOK Trial Therwil\nDOK Trial Therwil\n\n\n11.6.\nDo\nKanton Freiburg\nMeteoSuisse, Payerne\n\n\n12.6.\nFr\nDrought experiment (Biology, Uni Bern)\nBurgergemeinde Bern\n\n\n14.6.\nSo\n\nTravel to Wallis\n\n\n15.6.\nMo\nIntegrales Wasserressourcenmanagement, Naters\nIntegrales Wasserressourcenmanagement, NatersFireside input\n\n\n16.6.\nDi\nDrought experiment Pfynwald (WSL)\nWildfire LeukReturn to Bern",
+    "objectID": "plan.html#feldphase",
+    "href": "plan.html#feldphase",
+    "title": "2  Kursplan",
+    "section": "2.2 Feldphase",
+    "text": "2.2 Feldphase\n\n\n\n\n\n\n\n\n\nDatum\nTag\nMorgen\nNachmittag\n\n\n\n\n8.6.\nMo\nPresentation and discussionWeather outlook\nExkursion Brteitsch Stadt Bern (Rundgang)\n\n\n9.6.\nDi\nSwisstopo\nBAFU\n\n\n10.6.\nMi\nDOK Trial Therwil\nDOK Trial Therwil\n\n\n11.6.\nDo\nKanton Freiburg\nMeteoSuisse, Payerne\n\n\n12.6.\nFr\nDrought experiment (Biology, Uni Bern)\nBurgergemeinde Bern\n\n\n13.6.\nSa\nKein Programm\nKein Programm\n\n\n14.6.\nSo\nKein Programm\nTravel to Wallis\n\n\n15.6.\nMo\nIntegrales Wasserressourcenmanagement, Naters\nIntegrales Wasserressourcenmanagement, NatersFireside input\n\n\n16.6.\nDi\nDrought experiment Pfynwald (WSL)\nWildfire LeukReturn to Bern",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course plan</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Kursplan</span>"
     ]
   },
   {
     "objectID": "links.html",
     "href": "links.html",
-    "title": "3  Links",
+    "title": "3  Datenzugang",
     "section": "",
-    "text": "3.1 MeteoSchweiz Stationsdaten\nDaten ohne Programmierkenntnisse herunterladen\nDaten via API herunterladen",
+    "text": "3.1 MeteoSchweiz Stationsdaten\nFür die Analyse von Dürreereignissen und klimatischen Veränderungen stehen verschiedene Datensätze aus unterschiedlichen Quellen zur Verfügung. Diese umfassen sowohl in-situ Messdaten (z. B. meteorologische und hydrologische Stationsdaten) als auch Fernerkundungs- und Reanalysedaten. Die folgenden Abschnitte geben einen Überblick über zentrale Datenquellen sowie deren Zugangsmöglichkeiten. Dabei werden sowohl manuelle Download-Optionen als auch automatisierte Zugänge über Programmierschnittstellen (APIs) vorgestellt.\nMeteoSchweiz stellt umfangreiche meteorologische Stationsdaten zur Verfügung, die für die Analyse klimatischer Bedingungen und deren zeitlicher Entwicklung genutzt werden können. Der Zugang zu diesen Daten erfolgt sowohl über manuelle Downloads als auch über eine API, die eine automatisierte Datenabfrage ermöglicht.\nUnter dem folgenden Link können die relevanten Metainformationen zu den Stationsdaten heruntergeladen werden. Besonders relevant sind hier die Dateien Metadaten der Stationen und Metadaten der Parameter.\nMetainformationen herunterladen\nManueller Zugang zu Meteo Schweiz Daten\nDer folgende Link führt direkt zur Webseite von Meteo Schweiz, dort kann die Station und Zeitraum ausgewählt werden und dann die entsprechend CSV-Datei heruntergeladen werden.\nDaten ohne Programmierkenntnisse herunterladen\nZugang über API von Meteo Schweiz\nDie Dateien können jedoch auch über einen API-Zugang, welcher von Meteo Schweiz zur Verfügung gestellt wird heruntergeladen werden.\nDas folgende Skript demonstriert, wie man die täglichen Daten der Station Bern-Zollikofen seit Messbeginn in R herunterladen kann.\nlibrary(purrr)\nlibrary(lubridate)\nlibrary(dplyr)\nlibrary(readr)\nlibrary(ggplot2)\n\n# create a folder to store the csv-files\ndir.create(here(\"data-raw\"), showWarnings = FALSE, recursive = TRUE)\n\n# Url's of daily station data\nstation_urls &lt;- c(\n  \"Bern/Zollikofen hist\" = \"https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_historical.csv\", # data since start of recordings until the end of last year\n  \"Bern/Zollikofen rec\"  = \"https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_recent.csv\" # data since the start of this year until yesterday\n)\n\n# a loop to iterate through every url in the station_urls and download the respective csv-files\niwalk(\n  station_urls,\n  ~ {\n    station_name &lt;- .y\n    url &lt;- .x\n    \n    safe_name &lt;- gsub(\"[/ ]\", \"_\", station_name)\n    destfile &lt;- file.path(here(\"data-raw\"), paste0(safe_name, \"_daily.csv\"))\n    \n    message(\"Load \", station_name, \" von \", url)\n    download.file(url, destfile = destfile, mode = \"wb\")\n  }\n)\n\n# read in csv-file into data frame\nfiles &lt;- list.files(here(\"data-raw\"), pattern = \"\\\\.csv$\", full.names = TRUE)\n\ndf_daily &lt;- map_dfr(\n  files,\n  ~ read_csv2(\n    .x,\n    show_col_types = FALSE,\n    col_types = cols(.default = col_character())\n  )\n) %&gt;%\n  mutate(\n    reference_timestamp = dmy_hm(reference_timestamp),\n    tre200d0 = as.numeric(tre200d0)\n  )\n\n# plot time series of daily mean temperature\nggplot(df_daily, aes(x = reference_timestamp, y = tre200d0))+\n  geom_line()+\n  labs(\n    x = \"Date\",\n    y = \"Daily mean temperature\"\n  )+\n  theme_minimal()\nDas folgende Skript demonstiert, wie man die täglichen Daten der Station Bern-Zollikofen seit Messbeginn in Python herunterladen kann.\nimport os\nfrom pathlib import Path\nfrom urllib.request import urlretrieve\n\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\n# create a folder to store the csv-files\ndata_dir = Path(\"../data-raw\")\ndata_dir.mkdir(parents=True, exist_ok=True)\n\n# Url's of daily station data\nstation_urls = {\n    \"Bern_Zollikofen_hist\": \"https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_historical.csv\", # data since start of recordings until the end of last year\n    \"Bern_Zollikofen_rec\":  \"https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_recent.csv\", # data since the start of this year until yesterday\n}\n\n# a loop to iterate through every url in the station_urls and download the respective csv-files\nfor station_name, url in station_urls.items():\n    destfile = data_dir / f\"{station_name}_daily.csv\"\n    print(f\"Lade {station_name} von {url}\")\n    urlretrieve(url, destfile)\n    \n# read in all csv-files from the folder\nfiles = sorted(data_dir.glob(\"*.csv\"))\n\ndf_daily = pd.concat(\n    [pd.read_csv(file, sep=\";\") for file in files],\n    ignore_index=True\n)\n\n# convert timestamp column\ndf_daily[\"reference_timestamp\"] = pd.to_datetime(\n    df_daily[\"reference_timestamp\"].astype(str).str.strip(),\n    format=\"%d.%m.%Y %H:%M\",\n    errors=\"coerce\"\n)\n\n# convert daily mean temperature to numeric\ndf_daily[\"tre200d0\"] = pd.to_numeric(df_daily[\"tre200d0\"], errors=\"coerce\")\n\n# plot time series of daily mean temperature\nplt.figure(figsize=(12, 5))\nplt.plot(df_daily[\"reference_timestamp\"], df_daily[\"tre200d0\"])\nplt.xlabel(\"Date\")\nplt.ylabel(\"Daily mean temperature\")\nplt.title(\"Daily mean temperature at Bern-Zollikofen\")\nplt.grid()\nplt.tight_layout()\nplt.show()\nDie detaillierte Dokumentation zum Datenzugang über die API ist hier verfügbar:\nDaten via API herunterladen",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Links</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Datenzugang</span>"
+    ]
+  },
+  {
+    "objectID": "links.html#abfluss--und-wasserstandsdaten-von-bafu",
+    "href": "links.html#abfluss--und-wasserstandsdaten-von-bafu",
+    "title": "3  Datenzugang",
+    "section": "3.2 3.2 Abfluss- und Wasserstandsdaten von BAFU",
+    "text": "3.2 3.2 Abfluss- und Wasserstandsdaten von BAFU\nNeben meteorologischen Daten sind hydrologische Messgrössen wie Abfluss und Wasserstand zentral für die Analyse von Dürreereignissen. Diese Daten werden vom Bundesamt für Umwelt (BAFU) bereitgestellt und können über eine interaktive Webplattform eingesehen werden. Die zugehörige Webplattform ermöglicht die Analyse der aktuellen hydrologischen Situation sowie die Nachverfolgung der Entwicklung der Flusspegel seit Jahresbeginn. Ergänzend dazu werden vertiefende Informationen zur Niedrigwasserstatistik sowie verschiedene Visualisierungen zur Verfügung gestellt.\nHydrologische Daten BAFU",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Datenzugang</span>"
+    ]
+  },
+  {
+    "objectID": "links.html#modis-ndvi-daten",
+    "href": "links.html#modis-ndvi-daten",
+    "title": "3  Datenzugang",
+    "section": "3.3 MODIS NDVI Daten",
+    "text": "3.3 MODIS NDVI Daten\nMODIS stellt globale NDVI Daten zur Verfügung. Mit dem R-Package MODISTools können diese Daten für beliebige Standorte in R selbst heruntergeladen werden. Das folgende Skript demonstriert das herunterladen von NDVI-Daten mithilfe von MOODISTOOLS im Umkreis der Station Bern/Zollikofen.\n\nlibrary(MODISTools)\nlibrary(dplyr)\nlibrary(here)\nlibrary(readr)\n\n# 1) Table with the coordinates for each station\nstations &lt;- tibble::tribble(\n  ~site_name, ~lat, ~lon,\n  \"BER\", 46.990744, 7.464061  # cooridantes of a station are in the file ogd-smn_meta_stations.csv\n)\n\n# 2) Function for extracting the data for each station\ndownload_one_station &lt;- function(site, lat, lon,\n                                 start = \"2001-01-01\",\n                                 end   = \"2025-12-31\") {\n  message(\"=== Station \", site, \" (\", start, \" - \", end, \") ===\")\n  \n  # create file\n  out_file &lt;- here::here(\n    \"data-raw\",\n    paste0(\"MOD13Q1_NDVI_\", site, \"_\", start, \"_\", end, \".csv\")\n  )\n  \n  # skip if file already existsts\n  if (file.exists(out_file)) {\n    message(\"   -&gt; File exists already \", out_file)\n    return(invisible(NULL))\n  }\n  \n  # Try download for the station\n  res &lt;- try(\n    mt_subset(\n      product = \"MOD13Q1\",\n      band    = \"250m_16_days_NDVI\",\n      lat     = lat,\n      lon     = lon,\n      start   = start,\n      end     = end,\n      km_lr   = 1,  # radius of 1km around the station\n      km_ab   = 1,\n      site_name = site,\n      internal  = TRUE,   # return data frame\n      progress  = TRUE\n    ),\n    silent = TRUE\n  )\n  \n  # Error handling\n  if (inherits(res, \"try-error\") || is.null(res) || nrow(res) == 0) {\n    message(\"Error or empty result at \", site)\n    return(invisible(NULL))\n  }\n  \n  # save CSV\n  write_csv(res, out_file)\n  message(\"saved: \", out_file)\n  \n  # little break to relax server\n  Sys.sleep(1)\n  \n  invisible(NULL)\n}\n\n# 3) Loop over all stations\nfor (i in seq_len(nrow(stations))) {\n  download_one_station(\n    site = stations$site_name[i],\n    lat  = stations$lat[i],\n    lon  = stations$lon[i],\n    start = \"2001-01-01\",\n    end   = \"2025-12-31\"\n  )\n}",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Datenzugang</span>"
     ]
   },
   {
     "objectID": "links.html#era5-climate-reanalysis",
     "href": "links.html#era5-climate-reanalysis",
-    "title": "3  Links",
-    "section": "3.2 ERA5 climate reanalysis",
-    "text": "3.2 ERA5 climate reanalysis\nERA5 Land hourly time-series data from 1950 to present",
+    "title": "3  Datenzugang",
+    "section": "3.4 ERA5 climate reanalysis",
+    "text": "3.4 ERA5 climate reanalysis\nECMWF stellt mit dem Datensatz ERA5 climate reanalyis stündliche Daten für eine Vielzahl von Klimaparametern zur Verfügung, beispielsweise auch Daten zur Bodenfeuchtigkeit. Der Datensatz mit dem folgenden Link als CSV-Datei heruntergeladen werden.\nERA5 Land hourly time-series data from 1950 to present",
     "crumbs": [
       "Home",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Links</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Datenzugang</span>"
+    ]
+  },
+  {
+    "objectID": "links.html#meteo-schweiz-klima-2025-datensatz",
+    "href": "links.html#meteo-schweiz-klima-2025-datensatz",
+    "title": "3  Datenzugang",
+    "section": "3.5 Meteo Schweiz Klima 2025 Datensatz",
+    "text": "3.5 Meteo Schweiz Klima 2025 Datensatz\nNeben beobachteten Daten spielen Klimaszenarien eine zentrale Rolle für die Einschätzung zukünftiger Entwicklungen. Meteo Schweiz stellt mit Klima 2025 einen Datensatz zur Verfügung, der für eine Vielzahl an Stationen, Parameter und globalen Erwärmungsniveaus (GWL) Vorhersagen enthält. Unter dem folgenden Link kann eine beliebige Station ausgewählt werden. Hat man die Station ausgewählt kann man dann für jeden Parameter und jedes globale Erwärmungsniveau die entsprechende CSV-Datei herunterladen. Zusätzlich gibt es immer auch noch eine CSV-Datei mit den Daten für die Referenzperiode 1991-2020.\nFür die Metadaten aller vefügbaren Stationen und die Metainformationen zu den vefügbaren Parametern empfiehlt es sich die beiden CSV-Dateien ogd-climate-scenarios-ch-2025_meta_stations.csv und ogd-climate-scenarios-ch-2025_meta_parameters.csv herunterzuladen.\nKlima 2025 Datensatz\nAutomatisiertes Herunterladen der Daten\nDas Herunterladen der Daten kann auch automatisiert werden. Im folgenden ein R-Skript werden für die Station Bern/Zollikofen die Durchschnittstemperatur und die täglichen Niederschlagssummen für alle drei globalen Erwärmungsniveaus und für die Referenzperiode heruntergeladen.\n\nlibrary(purrr)\n\n# create folder\ndir.create(here(\"data-raw/ch2025\"), recursive = TRUE, showWarnings = FALSE)\n\n# Base components of the url used for the download\nbase_url &lt;- \"https://rgw.cscs.ch/mchogd:cscs.meteoswiss.ogd.climate/ogd-climate-scenarios-ch2025\"\nstation  &lt;- \"ber\"\n\nparameters &lt;- c(\"tas\", \"pr\")\nscenarios  &lt;- c(\"gwl1.5\", \"gwl2.0\", \"gwl2.5\", \"gwl3.0\", \"ref91-20\")\n\n# create a table with the complete urls for all combinations of station, parameter and scenario\ndownload_table &lt;- expand_grid(\n  parameter = parameters,\n  scenario  = scenarios\n) %&gt;%\n  mutate(\n    file_name = paste0(\n      \"ogd-climate-scenarios-ch2025_\",\n      station, \"_\", parameter, \"_\", scenario, \".csv\"\n    ),\n    url = paste(base_url, station, file_name, sep = \"/\")\n  )\n\nwalk2(\n  download_table$url,\n  download_table$file_name,\n  ~ {\n    destfile &lt;- file.path(here(\"data-raw/ch2025\"), .y)\n    message(\"Lade \", .y)\n    download.file(.x, destfile = destfile, mode = \"wb\")\n  }\n)",
+    "crumbs": [
+      "Home",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Datenzugang</span>"
     ]
   }
 ]
