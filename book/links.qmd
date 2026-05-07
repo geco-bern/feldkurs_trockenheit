@@ -1,4 +1,4 @@
-# Datenzugang
+# Datenzugang und Links {#sec-data}
 
 Für die Analyse von Dürreereignissen und klimatischen Veränderungen stehen verschiedene Datensätze aus unterschiedlichen Quellen zur Verfügung. Diese umfassen sowohl in-situ Messdaten (z. B. meteorologische und hydrologische Stationsdaten) als auch Fernerkundungs- und Reanalysedaten. Die folgenden Abschnitte geben einen Überblick über zentrale Datenquellen sowie deren Zugangsmöglichkeiten. Dabei werden sowohl manuelle Download-Optionen als auch automatisierte Zugänge über Programmierschnittstellen (APIs) vorgestellt.
 
@@ -22,8 +22,6 @@ Die Dateien können jedoch auch über einen API-Zugang, welcher von Meteo Schwei
 
 Das folgende Skript demonstriert, wie man die täglichen Daten der Station Bern-Zollikofen seit Messbeginn in `R` herunterladen kann.
 
-```{R}
-#| eval: false
 library(purrr)
 library(lubridate)
 library(dplyr)
@@ -31,7 +29,7 @@ library(readr)
 library(ggplot2)
 
 # create a folder to store the csv-files
-dir.create("data_raw", showWarnings = FALSE, recursive = TRUE)
+dir.create(here("data-raw"), showWarnings = FALSE, recursive = TRUE)
 
 # Url's of daily station data
 station_urls <- c(
@@ -47,7 +45,7 @@ iwalk(
     url <- .x
     
     safe_name <- gsub("[/ ]", "_", station_name)
-    destfile <- file.path("data_raw", paste0(safe_name, "_daily.csv"))
+    destfile <- file.path(here("data-raw"), paste0(safe_name, "_daily.csv"))
     
     message("Load ", station_name, " von ", url)
     download.file(url, destfile = destfile, mode = "wb")
@@ -55,7 +53,7 @@ iwalk(
 )
 
 # read in csv-file into data frame
-files <- list.files("data_raw", pattern = "\\.csv$", full.names = TRUE)
+files <- list.files(here("data-raw"), pattern = "\\.csv$", full.names = TRUE)
 
 df_daily <- map_dfr(
   files,
@@ -92,7 +90,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # create a folder to store the csv-files
-data_dir = Path("../data_raw")
+data_dir = Path("../data-raw")
 data_dir.mkdir(parents=True, exist_ok=True)
 
 # Url's of daily station data
@@ -150,8 +148,9 @@ Neben meteorologischen Daten sind hydrologische Messgrössen wie Abfluss und Was
 
 MODIS stellt globale NDVI Daten zur Verfügung. Mit dem R-Package `MODISTools` können diese Daten für beliebige Standorte in R selbst heruntergeladen werden. Das folgende Skript demonstriert das herunterladen von NDVI-Daten mithilfe von MOODISTOOLS im Umkreis der Station Bern/Zollikofen.
 
-```{R}
+```{r}
 #| eval: false
+
 library(MODISTools)
 library(dplyr)
 library(here)
@@ -171,7 +170,7 @@ download_one_station <- function(site, lat, lon,
   
   # create file
   out_file <- here::here(
-    "data_raw",
+    "data-raw",
     paste0("MOD13Q1_NDVI_", site, "_", start, "_", end, ".csv")
   )
   
@@ -245,12 +244,13 @@ Für die Metadaten aller vefügbaren Stationen und die Metainformationen zu den 
 
 Das Herunterladen der Daten kann auch automatisiert werden. Im folgenden ein R-Skript werden für die Station Bern/Zollikofen die Durchschnittstemperatur und die täglichen Niederschlagssummen für alle drei globalen Erwärmungsniveaus und für die Referenzperiode heruntergeladen.
 
-```{R}
+```{r}
 #| eval: false
+
 library(purrr)
 
 # create folder
-dir.create("data_raw/ch2025", recursive = TRUE, showWarnings = FALSE)
+dir.create(here("data-raw/ch2025"), recursive = TRUE, showWarnings = FALSE)
 
 # Base components of the url used for the download
 base_url <- "https://rgw.cscs.ch/mchogd:cscs.meteoswiss.ogd.climate/ogd-climate-scenarios-ch2025"
@@ -276,12 +276,23 @@ walk2(
   download_table$url,
   download_table$file_name,
   ~ {
-    destfile <- file.path("data_raw/ch2025", .y)
+    destfile <- file.path(here("data-raw/ch2025"), .y)
     message("Lade ", .y)
     download.file(.x, destfile = destfile, mode = "wb")
   }
 )
 ```
+
+## Links
+
+- [NCCS](https://www.nccs.admin.ch/nccs/de/home/massnahmen/pak/pilotprogramm-anpassung-an-den-klimawandel2.html)
+  - [NCCS Schweizer Hydroszenarien](https://www.nccs.admin.ch/nccs/de/home/klimawandel-und-auswirkungen/schweizer-hydroszenarien.html)
+  - [NCCS Waldwirtschaft](https://www.nccs.admin.ch/nccs/de/home/sektoren/waldwirtschaft.html)
+  - [NCCS Landwirtschaft](https://www.nccs.admin.ch/nccs/de/home/sektoren/landwirtschaft.html)
+  - [NCCS Wasserwirtschaft](https://www.nccs.admin.ch/nccs/de/home/sektoren/wasserwirtschaft.html)
+- [BAFU Trockenheitsplattform](https://www.trockenheit.admin.ch/en)
+- [Wasserentnahme bei Trockenheit, Kanton Bern](https://www.bvd.be.ch/de/start/themen/wasser/wassernutzung/wasserentnahmen-bei-trockenheit.html)
+- [CH2025 Klimaszenarien](https://www.nccs.admin.ch/nccs/en/home/climate-change-and-impacts/schweizer-klimaszenarien-ch2025.html)
 
 
 

@@ -1,9 +1,14 @@
 # Logistik
 
 ## Allgemeine Informationen
-* Leitung: Prof. [Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/); Mitwirkung: Prof. Adrien Mestrot, Prof. Olivia Romppainen-Martius – Geographisches Institut (GIUB), Universität Bern.
 
-* Die Unterrichtssprache ist Deutsch und/oder Englisch.
+- Leitung: Prof. [Benjamin Stocker](https://geco-group.org/author/benjamin-stocker/), Prof. Adrien Mestrot, und Prof. Olivia Romppainen-Martius; Geographisches Institut (GIUB); Universität Bern.
+- Die Unterrichtssprache ist Deutsch und/oder Englisch.
+- Anzahl ECTS: 5 ECTS
+- Organisation: Der Kurs findet im Frühjahrssemester 2026 statt. Insgesamt 10 Tage bestehend aus 1-2 Tage Vorbereitung und 8/9 Tage Blockkurs im Juni (08.06.-19.06.2026). Der Blockkurs umfasst eine Reise ins Wallis mit 2 Übernachtungen.
+- Maximale Teilnehmendenzahl: 30 Studierende.
+- Zielgruppe: Masterstudierende der Geografie 
+- Leistungsnachweis: Präsentation (20%), Fragen an Referierende (20%) und Bericht (60%)
 
 * Anzahl ECTS: 5 ECTS
 
@@ -29,31 +34,23 @@ Der Kurs besteht aus einer Vorbereitungsphase und einer Feldphase. Während der 
 
 Die Feldphase umfasst Besuche bei verschiedenen Institutionen, Forschungsstandorten und Orten, die sich mit Dürren, deren Auswirkungen und Anpassungsmaßnahmen befassen. Die Studierenden machen sich mit den unterschiedlichen Perspektiven verschiedener Anspruchsgruppen vertraut und lernen die Prozesse kennen, die Dürrefolgen in unterschiedlichen natürlichen Sphären sowie in sozioökonomischen Bereichen bestimmen.
 
-* Der Kurs wird in 4 Gruppen zu je 5 Studierenden durchgeführt.
-
-* Gruppenaufteilungen:
-
-  Gruppe 1, Wallis: Fragen zu Naters, Pfynwald
-
-  Gruppe 2, Therwil, BL: Fragen zu DokTrial, BAFU, Engehalde
-
-  Gruppe 3, Freiburg: Fragen an den Kanton Freibourg, Swisstopo
-
-  Gruppe 4, Bern: Fragen an die Burgergemeinde, Stadtgrün, MeteoSchweiz, WSL
-
-* Jede Gruppe arbeitet mit mindestens drei verschiedenen Datentypen, z.B.:
-
-  * Niederschlag (MeteoSchweiz-Stationen)
+- Der Kurs wird in 4 Gruppen zu je 5 Studierenden durchgeführt.
+- Gruppenaufteilungen:
+  - Gruppe 1, Wallis: Fragen zu Naters, Pfynwald
+  - Gruppe 2, Nordwestschweiz: Fragen zu DokTrial, BAFU, Engehalde
+  - Gruppe 3, Fribourg: Fragen an den Kanton Freibourg, Swisstopo
+  - Gruppe 4, Bern: Fragen an die Burgergemeinde, Stadtgrün, MeteoSchweiz, WSL
+- Jede Gruppe arbeitet mit mindestens drei verschiedenen Datentypen, z.B.:
+  - Niederschlag (MeteoSchweiz-Stationen)
     - Einfache Berechnungen: gleitender Mittelwert über X Tage
     - SPI (Standardized Precipitation Index)
-    
-  * Abfluss (https://lindas.admin.ch/?lang=en )
-  * NDVI (MODIS, Beispielzugang)
-  * Bodenfeuchte (ERA5 oder Stationsdaten)
-  * Grundwasser (https://www.hydrodaten.admin.ch/)
-  * TreeNet (https://treenet.info/)
-  
-* Der Zugang und das Herunterladen der Daten wird auf der folgenden Seite erklärt und demonstiert (hier dann Link einfügen auf die Data Seite)
+  - Abfluss ([Lindas](https://lindas.admin.ch/?lang=en))
+  - NDVI (MODIS)
+  - Bodenfeuchte (ERA5 oder Stationsdaten)
+  - Grundwasser ([Hydrodaten](https://www.hydrodaten.admin.ch/))
+  - [TreeNet](https://treenet.info/)
+
+Der Zugang und das Herunterladen der Daten wird in @sec-data erklärt und demonstiert.
 
 Die im Rahmen der Vorbereitungsphase erarbeiteten Datenauswertungen, Visualisierungen, Literaturrecherchen und Fragestellungen bilden die Grundlage für die Präsentationen, die Diskussionen mit den Stakeholdern vor Ort sowie den abschliessenden schriftlichen Bericht.
   
@@ -62,27 +59,29 @@ Die im Rahmen der Vorbereitungsphase erarbeiteten Datenauswertungen, Visualisier
 Im Rahmen des Feldkurses übernehmen die Studierenden bereits vor Beginn der Feldphase eigenständige Arbeiten in den Bereichen Datenbeschaffung, Datenanalyse und Datenvisualisierung. Die aufbereiteten Ergebnisse werden am ersten Tag des Blockkurses in einer Gruppenpräsentation vorgestellt.
 
 ### Aufgaben vor der Feldphase
+
 Jede Gruppe erarbeitet für ihre Region eine datengestützte Analyse zu Dürrebedingungen und deren Einordnung. Dazu gehören insbesondere:
 
-* Datenbeschaffung für die jeweilige Region
-* Datenanalyse und Visualisierung der relevanten Variablen
-* Literaturrecherche zur fachlichen Einordnung der Ergebnisse
-* Vorbereitung einer Präsentation für den ersten Kurstag
-* Vorbereitung von Fragen für die Referierenden und besuchten Institutionen
+- Datenbeschaffung für die jeweilige Region
+- Datenanalyse und Visualisierung der relevanten Variablen
+- Literaturrecherche zur fachlichen Einordnung der Ergebnisse
+- Vorbereitung einer Präsentation für den ersten Kurstag
+- Vorbereitung von Fragen für die Referierenden und besuchten Institutionen
 
 ### Inhalt der Präsentation
+
 Die Präsentation (ca. 30 Minuten) soll folgende Aspekte abdecken:
 
-* Klimatologie der Region, insbesondere:
-  * Niederschlag
-  * Abfluss
-  * Bodenfeuchte
-  * Evapotranspiration
-* Historische Dürreereignisse
-* Aktuelle Messungen und gegenwärtige Bedingungen
-* Zukünftige Projektionen (z.B. CH2025)
-* Geplante und bereits umgesetzte Massnahmen zur Anpassung an Dürre
-* Erkenntnisse aus der Literaturrecherche
+- Klimatologie der Region, insbesondere:
+  - Niederschlag
+  - Abfluss
+  - Bodenfeuchte
+  - Evapotranspiration
+- Historische Dürreereignisse
+- Aktuelle Messungen und gegenwärtige Bedingungen
+- Zukünftige Projektionen (z.B. CH2025)
+- Geplante und bereits umgesetzte Massnahmen zur Anpassung an Dürre
+- Erkenntnisse aus der Literaturrecherche
 
 Darüber hinaus bereitet jede Gruppe Fragen für die jeweiligen Stakeholder und Referierenden vor. Die Antworten und Erkenntnisse aus den Gesprächen und Besuchen werden im Schlussbericht dokumentiert.
 
@@ -90,19 +89,20 @@ Darüber hinaus bereitet jede Gruppe Fragen für die jeweiligen Stakeholder und 
 
 Der schriftliche Bericht soll sich an folgenden Leitfragen orientieren:
 
-* Was lässt sich aus den Daten über die Dürresituation in der jeweiligen Region lernen?
-* Welche Beobachtungen oder Ergebnisse waren besonders überraschend?
-* Was wurde aus den Gesprächen mit Referierenden und aus den Exkursionsbesuchen gelernt?
-* Wie werden Dürren gemessen und welche Beobachtungen beziehungsweise Datengrundlagen sind dafür notwendig?
-* Wie sollte auf zukünftige Veränderungen in Intensität und Häufigkeit von Dürren reagiert werden?
-* Welche Anpassungsmassnahmen erscheinen in der jeweiligen Region sinnvoll, realistisch oder bereits wirksam?
+- Was lässt sich aus den Daten über die Dürresituation in der jeweiligen Region lernen?
+- Welche Beobachtungen oder Ergebnisse waren besonders überraschend?
+- Was wurde aus den Gesprächen mit Referierenden und aus den Exkursionsbesuchen gelernt?
+- Wie werden Dürren gemessen und welche Beobachtungen beziehungsweise Datengrundlagen sind dafür notwendig?
+- Wie sollte auf zukünftige Veränderungen in Intensität und Häufigkeit von Dürren reagiert werden?
+- Welche Anpassungsmassnahmen erscheinen in der jeweiligen Region sinnvoll, realistisch oder bereits wirksam?
 
 ### Leistungsnachweis
+
 Die Leistungen im Feldkurs werden wie folgt bewertet:
 
-* Präsentation: 20 %
-* Fragen an Referierende / Stakeholder: 20 %
-* Schriftlicher Bericht: 60 % 
+- Präsentation: 20 %
+- Fragen an Referierende / Stakeholder: 20 %
+- Schriftlicher Bericht: 60 % 
   
   
-  
+
