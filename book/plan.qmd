@@ -15,20 +15,21 @@
 * Unterstützung beim Datenzugang, bei der Analyse und Interpretation
 * Konsolidierung der Fragen an Stakeholder zu einem gemeinsamen Fragenkatalog
 * Vorbereitung und Anleitung für Präsentationen (Struktur und Aufbau)
+* Räumlichkeit: H4, Raum 304
 
 ## Feldphase
 
-| Datum     | Tag | Morgen                                              | Nachmittag                                     |
-|-----------|-----|-----------------------------------------------------|------------------------------------------------|
-| 8.6.      | Mo  | Presentation and discussion<br>Weather outlook      | Exkursion Brteitsch Stadt Bern (Rundgang)      |
-| 9.6.      | Di  | Swisstopo                                           | BAFU                                           |
-| 10.6.     | Mi  | DOK Trial Therwil                                   | DOK Trial Therwil                              |
-| 11.6.     | Do  | Kanton Freiburg                                     | MeteoSuisse, Payerne                           |
-| 12.6.     | Fr  | Drought experiment (Biology, Uni Bern)              | Burgergemeinde Bern                            |
-| 13.6.     | Sa  | Kein Programm                                       | Kein Programm                                  |
-| 14.6.     | So  | Kein Programm                                       | Travel to Wallis                               |
-| 15.6.     | Mo  | Integrales Wasserressourcenmanagement, Naters       | Integrales Wasserressourcenmanagement, Naters<br>Fireside input |
-| 16.6.     | Di  | Drought experiment Pfynwald (WSL)                   | Wildfire Leuk<br>Return to Bern                |
+| Datum     | Tag | Morgen                                                      | Nachmittag                                     |
+|-----------|-----|-------------------------------------------------------------|------------------------------------------------|
+| 8.6.      | Mo  | Presentation and discussion<br>Weather outlook              | Exkursion Breitenrainplatz Stadt Bern (Rundgang)      |
+| 9.6.      | Di  | Swisstopo, eigener Laptop mitbringen                        | BAFU                                           |
+| 10.6.     | Mi  | Besuch WSL                                                  | Besuch Agroscope                               |
+| 11.6.     | Do  | Kanton Freiburg, Picknick mitbringen                        | MeteoSuisse, Payerne                           |
+| 12.6.     | Fr  | Drought experiment (Biology, Uni Bern), Picknick mitbringen | Burgergemeinde Bern                            |
+| 13.6.     | Sa  | Kein Programm                                               | Kein Programm                                  |
+| 14.6.     | So  | Kein Programm                                               | Travel to Wallis, Restaurant Rendez-vous session und Nachtessen Restaurant Traube |
+| 15.6.     | Mo  | Integrales Wasserressourcenmanagement, Naters               | Integrales Wasserressourcenmanagement, Naters<br>Fireside input |
+| 16.6.     | Di  | Drought experiment Pfynwald (WSL)                           | Wildfire Leuk<br>Rückkehr nach Bern                |
 
 ## Gruppen
 
