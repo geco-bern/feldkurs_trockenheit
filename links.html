@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>3&nbsp; Datenzugang und Links – Feldkurs Schweiz</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -70,19 +73,18 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link href="./figures/favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-4d9afe2b8d18ee9fa5d0d57b5ed4214d.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1b664e6692268865ac8c350bc2db6ed4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-55abac0465d10ec823624cc1da9df1de.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-1b664e6692268865ac8c350bc2db6ed4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4ff8a739b33b00098da8eb25d7dcc603.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-99ed86e83d9d381114257d8c52c6e005.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-4ff8a739b33b00098da8eb25d7dcc603.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -387,11 +389,18 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
    
   <ul>
   <li><a href="#meteoschweiz-stationsdaten" id="toc-meteoschweiz-stationsdaten" class="nav-link active" data-scroll-target="#meteoschweiz-stationsdaten"><span class="header-section-number">3.1</span> MeteoSchweiz Stationsdaten</a></li>
-  <li><a href="#abfluss--und-wasserstandsdaten-von-bafu" id="toc-abfluss--und-wasserstandsdaten-von-bafu" class="nav-link" data-scroll-target="#abfluss--und-wasserstandsdaten-von-bafu"><span class="header-section-number">3.2</span> 3.2 Abfluss- und Wasserstandsdaten von BAFU</a></li>
-  <li><a href="#modis-ndvi-daten" id="toc-modis-ndvi-daten" class="nav-link" data-scroll-target="#modis-ndvi-daten"><span class="header-section-number">3.3</span> MODIS NDVI Daten</a></li>
-  <li><a href="#era5-climate-reanalysis" id="toc-era5-climate-reanalysis" class="nav-link" data-scroll-target="#era5-climate-reanalysis"><span class="header-section-number">3.4</span> ERA5 climate reanalysis</a></li>
-  <li><a href="#meteo-schweiz-klima-2025-datensatz" id="toc-meteo-schweiz-klima-2025-datensatz" class="nav-link" data-scroll-target="#meteo-schweiz-klima-2025-datensatz"><span class="header-section-number">3.5</span> Meteo Schweiz Klima 2025 Datensatz</a></li>
-  <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links"><span class="header-section-number">3.6</span> Links</a></li>
+  <li><a href="#create-a-folder-to-store-the-csv-files" id="toc-create-a-folder-to-store-the-csv-files" class="nav-link" data-scroll-target="#create-a-folder-to-store-the-csv-files"><span class="header-section-number">4</span> create a folder to store the csv-files</a></li>
+  <li><a href="#urls-of-daily-station-data" id="toc-urls-of-daily-station-data" class="nav-link" data-scroll-target="#urls-of-daily-station-data"><span class="header-section-number">5</span> Url’s of daily station data</a></li>
+  <li><a href="#a-loop-to-iterate-through-every-url-in-the-station_urls-and-download-the-respective-csv-files" id="toc-a-loop-to-iterate-through-every-url-in-the-station_urls-and-download-the-respective-csv-files" class="nav-link" data-scroll-target="#a-loop-to-iterate-through-every-url-in-the-station_urls-and-download-the-respective-csv-files"><span class="header-section-number">6</span> a loop to iterate through every url in the station_urls and download the respective csv-files</a></li>
+  <li><a href="#read-in-csv-file-into-data-frame" id="toc-read-in-csv-file-into-data-frame" class="nav-link" data-scroll-target="#read-in-csv-file-into-data-frame"><span class="header-section-number">7</span> read in csv-file into data frame</a></li>
+  <li><a href="#plot-time-series-of-daily-mean-temperature" id="toc-plot-time-series-of-daily-mean-temperature" class="nav-link" data-scroll-target="#plot-time-series-of-daily-mean-temperature"><span class="header-section-number">8</span> plot time series of daily mean temperature</a>
+  <ul class="collapse">
+  <li><a href="#abfluss--und-wasserstandsdaten-von-bafu" id="toc-abfluss--und-wasserstandsdaten-von-bafu" class="nav-link" data-scroll-target="#abfluss--und-wasserstandsdaten-von-bafu"><span class="header-section-number">8.1</span> Abfluss- und Wasserstandsdaten von BAFU</a></li>
+  <li><a href="#modis-ndvi-daten" id="toc-modis-ndvi-daten" class="nav-link" data-scroll-target="#modis-ndvi-daten"><span class="header-section-number">8.2</span> MODIS NDVI Daten</a></li>
+  <li><a href="#era5-climate-reanalysis" id="toc-era5-climate-reanalysis" class="nav-link" data-scroll-target="#era5-climate-reanalysis"><span class="header-section-number">8.3</span> ERA5 climate reanalysis</a></li>
+  <li><a href="#meteo-schweiz-klima-2025-datensatz" id="toc-meteo-schweiz-klima-2025-datensatz" class="nav-link" data-scroll-target="#meteo-schweiz-klima-2025-datensatz"><span class="header-section-number">8.4</span> Meteo Schweiz Klima 2025 Datensatz</a></li>
+  <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links"><span class="header-section-number">8.5</span> Links</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -430,125 +439,101 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p><strong>Zugang über API von Meteo Schweiz</strong></p>
 <p>Die Dateien können jedoch auch über einen API-Zugang, welcher von Meteo Schweiz zur Verfügung gestellt wird heruntergeladen werden.</p>
 <p>Das folgende Skript demonstriert, wie man die täglichen Daten der Station Bern-Zollikofen seit Messbeginn in <code>R</code> herunterladen kann.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(purrr)</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(lubridate)</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(dplyr)</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readr)</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggplot2)</span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co"># create a folder to store the csv-files</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="fu">dir.create</span>(<span class="fu">here</span>(<span class="st">"data-raw"</span>), <span class="at">showWarnings =</span> <span class="cn">FALSE</span>, <span class="at">recursive =</span> <span class="cn">TRUE</span>)</span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co"># Url's of daily station data</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>station_urls <span class="ot">&lt;-</span> <span class="fu">c</span>(</span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>  <span class="st">"Bern/Zollikofen hist"</span> <span class="ot">=</span> <span class="st">"https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_historical.csv"</span>, <span class="co"># data since start of recordings until the end of last year</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>  <span class="st">"Bern/Zollikofen rec"</span>  <span class="ot">=</span> <span class="st">"https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_recent.csv"</span> <span class="co"># data since the start of this year until yesterday</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="co"># a loop to iterate through every url in the station_urls and download the respective csv-files</span></span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="fu">iwalk</span>(</span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>  station_urls,</span>
-<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>  <span class="sc">~</span> {</span>
-<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>    station_name <span class="ot">&lt;-</span> .y</span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>    url <span class="ot">&lt;-</span> .x</span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>    </span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>    safe_name <span class="ot">&lt;-</span> <span class="fu">gsub</span>(<span class="st">"[/ ]"</span>, <span class="st">"_"</span>, station_name)</span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>    destfile <span class="ot">&lt;-</span> <span class="fu">file.path</span>(<span class="fu">here</span>(<span class="st">"data-raw"</span>), <span class="fu">paste0</span>(safe_name, <span class="st">"_daily.csv"</span>))</span>
-<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>    </span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>    <span class="fu">message</span>(<span class="st">"Load "</span>, station_name, <span class="st">" von "</span>, url)</span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>    <span class="fu">download.file</span>(url, <span class="at">destfile =</span> destfile, <span class="at">mode =</span> <span class="st">"wb"</span>)</span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>  }</span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="co"># read in csv-file into data frame</span></span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>files <span class="ot">&lt;-</span> <span class="fu">list.files</span>(<span class="fu">here</span>(<span class="st">"data-raw"</span>), <span class="at">pattern =</span> <span class="st">"</span><span class="sc">\\</span><span class="st">.csv$"</span>, <span class="at">full.names =</span> <span class="cn">TRUE</span>)</span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>df_daily <span class="ot">&lt;-</span> <span class="fu">map_dfr</span>(</span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>  files,</span>
-<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>  <span class="sc">~</span> <span class="fu">read_csv2</span>(</span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>    .x,</span>
-<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>    <span class="at">show_col_types =</span> <span class="cn">FALSE</span>,</span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>    <span class="at">col_types =</span> <span class="fu">cols</span>(<span class="at">.default =</span> <span class="fu">col_character</span>())</span>
-<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>  )</span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>) <span class="sc">%&gt;%</span></span>
-<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(</span>
-<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>    <span class="at">reference_timestamp =</span> <span class="fu">dmy_hm</span>(reference_timestamp),</span>
-<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>    <span class="at">tre200d0 =</span> <span class="fu">as.numeric</span>(tre200d0)</span>
-<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>  )</span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a><span class="co"># plot time series of daily mean temperature</span></span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(df_daily, <span class="fu">aes</span>(<span class="at">x =</span> reference_timestamp, <span class="at">y =</span> tre200d0))<span class="sc">+</span></span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>()<span class="sc">+</span></span>
-<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(</span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>    <span class="at">x =</span> <span class="st">"Date"</span>,</span>
-<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>    <span class="at">y =</span> <span class="st">"Daily mean temperature"</span></span>
-<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>  )<span class="sc">+</span></span>
-<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_minimal</span>()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-</div>
-<p>Das folgende Skript demonstiert, wie man die täglichen Daten der Station Bern-Zollikofen seit Messbeginn in <code>Python</code> herunterladen kann.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> os</span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> pathlib <span class="im">import</span> Path</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> urllib.request <span class="im">import</span> urlretrieve</span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="co"># create a folder to store the csv-files</span></span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>data_dir <span class="op">=</span> Path(<span class="st">"../data-raw"</span>)</span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>data_dir.mkdir(parents<span class="op">=</span><span class="va">True</span>, exist_ok<span class="op">=</span><span class="va">True</span>)</span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a><span class="co"># Url's of daily station data</span></span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>station_urls <span class="op">=</span> {</span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Bern_Zollikofen_hist"</span>: <span class="st">"https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_historical.csv"</span>, <span class="co"># data since start of recordings until the end of last year</span></span>
-<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Bern_Zollikofen_rec"</span>:  <span class="st">"https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_recent.csv"</span>, <span class="co"># data since the start of this year until yesterday</span></span>
-<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>}</span>
-<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a><span class="co"># a loop to iterate through every url in the station_urls and download the respective csv-files</span></span>
-<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> station_name, url <span class="kw">in</span> station_urls.items():</span>
-<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>    destfile <span class="op">=</span> data_dir <span class="op">/</span> <span class="ss">f"</span><span class="sc">{</span>station_name<span class="sc">}</span><span class="ss">_daily.csv"</span></span>
-<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(<span class="ss">f"Lade </span><span class="sc">{</span>station_name<span class="sc">}</span><span class="ss"> von </span><span class="sc">{</span>url<span class="sc">}</span><span class="ss">"</span>)</span>
-<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a>    urlretrieve(url, destfile)</span>
-<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>    </span>
-<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a><span class="co"># read in all csv-files from the folder</span></span>
-<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a>files <span class="op">=</span> <span class="bu">sorted</span>(data_dir.glob(<span class="st">"*.csv"</span>))</span>
-<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a>df_daily <span class="op">=</span> pd.concat(</span>
-<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a>    [pd.read_csv(<span class="bu">file</span>, sep<span class="op">=</span><span class="st">";"</span>) <span class="cf">for</span> <span class="bu">file</span> <span class="kw">in</span> files],</span>
-<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a>    ignore_index<span class="op">=</span><span class="va">True</span></span>
-<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a><span class="co"># convert timestamp column</span></span>
-<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a>df_daily[<span class="st">"reference_timestamp"</span>] <span class="op">=</span> pd.to_datetime(</span>
-<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a>    df_daily[<span class="st">"reference_timestamp"</span>].astype(<span class="bu">str</span>).<span class="bu">str</span>.strip(),</span>
-<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a>    <span class="bu">format</span><span class="op">=</span><span class="st">"</span><span class="sc">%d</span><span class="st">.%m.%Y %H:%M"</span>,</span>
-<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a>    errors<span class="op">=</span><span class="st">"coerce"</span></span>
-<span id="cb2-37"><a href="#cb2-37" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb2-38"><a href="#cb2-38" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-39"><a href="#cb2-39" aria-hidden="true" tabindex="-1"></a><span class="co"># convert daily mean temperature to numeric</span></span>
-<span id="cb2-40"><a href="#cb2-40" aria-hidden="true" tabindex="-1"></a>df_daily[<span class="st">"tre200d0"</span>] <span class="op">=</span> pd.to_numeric(df_daily[<span class="st">"tre200d0"</span>], errors<span class="op">=</span><span class="st">"coerce"</span>)</span>
-<span id="cb2-41"><a href="#cb2-41" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-42"><a href="#cb2-42" aria-hidden="true" tabindex="-1"></a><span class="co"># plot time series of daily mean temperature</span></span>
-<span id="cb2-43"><a href="#cb2-43" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">12</span>, <span class="dv">5</span>))</span>
-<span id="cb2-44"><a href="#cb2-44" aria-hidden="true" tabindex="-1"></a>plt.plot(df_daily[<span class="st">"reference_timestamp"</span>], df_daily[<span class="st">"tre200d0"</span>])</span>
-<span id="cb2-45"><a href="#cb2-45" aria-hidden="true" tabindex="-1"></a>plt.xlabel(<span class="st">"Date"</span>)</span>
-<span id="cb2-46"><a href="#cb2-46" aria-hidden="true" tabindex="-1"></a>plt.ylabel(<span class="st">"Daily mean temperature"</span>)</span>
-<span id="cb2-47"><a href="#cb2-47" aria-hidden="true" tabindex="-1"></a>plt.title(<span class="st">"Daily mean temperature at Bern-Zollikofen"</span>)</span>
-<span id="cb2-48"><a href="#cb2-48" aria-hidden="true" tabindex="-1"></a>plt.grid()</span>
-<span id="cb2-49"><a href="#cb2-49" aria-hidden="true" tabindex="-1"></a>plt.tight_layout()</span>
-<span id="cb2-50"><a href="#cb2-50" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-</div>
+<p>library(purrr) library(lubridate) library(dplyr) library(readr) library(ggplot2)</p>
+</section>
+<section id="create-a-folder-to-store-the-csv-files" class="level1" data-number="4">
+<h1 data-number="4"><span class="header-section-number">4</span> create a folder to store the csv-files</h1>
+<p>dir.create(here(“data-raw”), showWarnings = FALSE, recursive = TRUE)</p>
+</section>
+<section id="urls-of-daily-station-data" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Url’s of daily station data</h1>
+<p>station_urls &lt;- c( “Bern/Zollikofen hist” = “https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_historical.csv”, # data since start of recordings until the end of last year “Bern/Zollikofen rec” = “https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_recent.csv” # data since the start of this year until yesterday )</p>
+</section>
+<section id="a-loop-to-iterate-through-every-url-in-the-station_urls-and-download-the-respective-csv-files" class="level1" data-number="6">
+<h1 data-number="6"><span class="header-section-number">6</span> a loop to iterate through every url in the station_urls and download the respective csv-files</h1>
+<p>iwalk( station_urls, ~ { station_name &lt;- .y url &lt;- .x</p>
+<pre><code>safe_name &lt;- gsub("[/ ]", "_", station_name)
+destfile &lt;- file.path(here("data-raw"), paste0(safe_name, "_daily.csv"))
+
+message("Load ", station_name, " von ", url)
+download.file(url, destfile = destfile, mode = "wb")</code></pre>
+<p>} )</p>
+</section>
+<section id="read-in-csv-file-into-data-frame" class="level1" data-number="7">
+<h1 data-number="7"><span class="header-section-number">7</span> read in csv-file into data frame</h1>
+<p>files &lt;- list.files(here(“data-raw”), pattern = “\.csv$”, full.names = TRUE)</p>
+<p>df_daily &lt;- map_dfr( files, ~ read_csv2( .x, show_col_types = FALSE, col_types = cols(.default = col_character()) ) ) %&gt;% mutate( reference_timestamp = dmy_hm(reference_timestamp), tre200d0 = as.numeric(tre200d0) )</p>
+</section>
+<section id="plot-time-series-of-daily-mean-temperature" class="level1" data-number="8">
+<h1 data-number="8"><span class="header-section-number">8</span> plot time series of daily mean temperature</h1>
+<p>ggplot(df_daily, aes(x = reference_timestamp, y = tre200d0))+ geom_line()+ labs( x = “Date”, y = “Daily mean temperature” )+ theme_minimal()</p>
+<pre><code>
+Das folgende Skript demonstiert, wie man die täglichen Daten der Station Bern-Zollikofen seit Messbeginn in `Python` herunterladen kann.
+
+
+::: {.cell}
+
+```{.python .cell-code}
+import os
+from pathlib import Path
+from urllib.request import urlretrieve
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# create a folder to store the csv-files
+data_dir = Path("../data-raw")
+data_dir.mkdir(parents=True, exist_ok=True)
+
+# Url's of daily station data
+station_urls = {
+    "Bern_Zollikofen_hist": "https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_historical.csv", # data since start of recordings until the end of last year
+    "Bern_Zollikofen_rec":  "https://data.geo.admin.ch/ch.meteoschweiz.ogd-smn/ber/ogd-smn_ber_d_recent.csv", # data since the start of this year until yesterday
+}
+
+# a loop to iterate through every url in the station_urls and download the respective csv-files
+for station_name, url in station_urls.items():
+    destfile = data_dir / f"{station_name}_daily.csv"
+    print(f"Lade {station_name} von {url}")
+    urlretrieve(url, destfile)
+    
+# read in all csv-files from the folder
+files = sorted(data_dir.glob("*.csv"))
+
+df_daily = pd.concat(
+    [pd.read_csv(file, sep=";") for file in files],
+    ignore_index=True
+)
+
+# convert timestamp column
+df_daily["reference_timestamp"] = pd.to_datetime(
+    df_daily["reference_timestamp"].astype(str).str.strip(),
+    format="%d.%m.%Y %H:%M",
+    errors="coerce"
+)
+
+# convert daily mean temperature to numeric
+df_daily["tre200d0"] = pd.to_numeric(df_daily["tre200d0"], errors="coerce")
+
+# plot time series of daily mean temperature
+plt.figure(figsize=(12, 5))
+plt.plot(df_daily["reference_timestamp"], df_daily["tre200d0"])
+plt.xlabel("Date")
+plt.ylabel("Daily mean temperature")
+plt.title("Daily mean temperature at Bern-Zollikofen")
+plt.grid()
+plt.tight_layout()
+plt.show()</code></pre>
+<p>:::</p>
 <p>Die detaillierte Dokumentation zum Datenzugang über die API ist hier verfügbar:</p>
 <p><a href="https://opendatadocs.meteoswiss.ch/de/a-data-groundbased/a1-automatic-weather-stations?Datenstruktur=eine-datei-mit-allen-stationen">Daten via API herunterladen</a></p>
-</section>
-<section id="abfluss--und-wasserstandsdaten-von-bafu" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="abfluss--und-wasserstandsdaten-von-bafu"><span class="header-section-number">3.2</span> 3.2 Abfluss- und Wasserstandsdaten von BAFU</h2>
+<section id="abfluss--und-wasserstandsdaten-von-bafu" class="level2" data-number="8.1">
+<h2 data-number="8.1" class="anchored" data-anchor-id="abfluss--und-wasserstandsdaten-von-bafu"><span class="header-section-number">8.1</span> Abfluss- und Wasserstandsdaten von BAFU</h2>
 <p>Neben meteorologischen Daten sind hydrologische Messgrössen wie Abfluss und Wasserstand zentral für die Analyse von Dürreereignissen. Diese Daten werden vom Bundesamt für Umwelt (BAFU) bereitgestellt und können über eine interaktive Webplattform eingesehen werden. Die zugehörige Webplattform ermöglicht die Analyse der aktuellen hydrologischen Situation sowie die Nachverfolgung der Entwicklung der Flusspegel seit Jahresbeginn. Ergänzend dazu werden vertiefende Informationen zur Niedrigwasserstatistik sowie verschiedene Visualisierungen zur Verfügung gestellt.</p>
 <p><a href="https://www.hydrodaten.admin.ch/de/seen-und-fluesse/messstationen-zustand">Hydrologische Daten BAFU</a></p>
 </section>
-<section id="modis-ndvi-daten" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="modis-ndvi-daten"><span class="header-section-number">3.3</span> MODIS NDVI Daten</h2>
+<section id="modis-ndvi-daten" class="level2" data-number="8.2">
+<h2 data-number="8.2" class="anchored" data-anchor-id="modis-ndvi-daten"><span class="header-section-number">8.2</span> MODIS NDVI Daten</h2>
 <p>MODIS stellt globale NDVI Daten zur Verfügung. Mit dem R-Package <code>MODISTools</code> können diese Daten für beliebige Standorte in R selbst heruntergeladen werden. Das folgende Skript demonstriert das herunterladen von NDVI-Daten mithilfe von MOODISTOOLS im Umkreis der Station Bern/Zollikofen.</p>
 <div class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(MODISTools)</span>
@@ -626,13 +611,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb3-73"><a href="#cb3-73" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </section>
-<section id="era5-climate-reanalysis" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="era5-climate-reanalysis"><span class="header-section-number">3.4</span> ERA5 climate reanalysis</h2>
+<section id="era5-climate-reanalysis" class="level2" data-number="8.3">
+<h2 data-number="8.3" class="anchored" data-anchor-id="era5-climate-reanalysis"><span class="header-section-number">8.3</span> ERA5 climate reanalysis</h2>
 <p>ECMWF stellt mit dem Datensatz ERA5 climate reanalyis stündliche Daten für eine Vielzahl von Klimaparametern zur Verfügung, beispielsweise auch Daten zur Bodenfeuchtigkeit. Der Datensatz mit dem folgenden Link als CSV-Datei heruntergeladen werden.</p>
 <p><a href="https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-timeseries?tab=overview">ERA5 Land hourly time-series data from 1950 to present</a></p>
 </section>
-<section id="meteo-schweiz-klima-2025-datensatz" class="level2" data-number="3.5">
-<h2 data-number="3.5" class="anchored" data-anchor-id="meteo-schweiz-klima-2025-datensatz"><span class="header-section-number">3.5</span> Meteo Schweiz Klima 2025 Datensatz</h2>
+<section id="meteo-schweiz-klima-2025-datensatz" class="level2" data-number="8.4">
+<h2 data-number="8.4" class="anchored" data-anchor-id="meteo-schweiz-klima-2025-datensatz"><span class="header-section-number">8.4</span> Meteo Schweiz Klima 2025 Datensatz</h2>
 <p>Neben beobachteten Daten spielen Klimaszenarien eine zentrale Rolle für die Einschätzung zukünftiger Entwicklungen. Meteo Schweiz stellt mit Klima 2025 einen Datensatz zur Verfügung, der für eine Vielzahl an Stationen, Parameter und globalen Erwärmungsniveaus (GWL) Vorhersagen enthält. Unter dem folgenden Link kann eine beliebige Station ausgewählt werden. Hat man die Station ausgewählt kann man dann für jeden Parameter und jedes globale Erwärmungsniveau die entsprechende CSV-Datei herunterladen. Zusätzlich gibt es immer auch noch eine CSV-Datei mit den Daten für die Referenzperiode 1991-2020.</p>
 <p>Für die Metadaten aller vefügbaren Stationen und die Metainformationen zu den vefügbaren Parametern empfiehlt es sich die beiden CSV-Dateien <code>ogd-climate-scenarios-ch-2025_meta_stations.csv</code> und <code>ogd-climate-scenarios-ch-2025_meta_parameters.csv</code> herunterzuladen.</p>
 <p><a href="https://data.geo.admin.ch/browser/#/collections/ch.meteoschweiz.ogd-climate-scenarios-ch2025?.language=en">Klima 2025 Datensatz</a></p>
@@ -675,8 +660,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb4-34"><a href="#cb4-34" aria-hidden="true" tabindex="-1"></a>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </section>
-<section id="links" class="level2" data-number="3.6">
-<h2 data-number="3.6" class="anchored" data-anchor-id="links"><span class="header-section-number">3.6</span> Links</h2>
+<section id="links" class="level2" data-number="8.5">
+<h2 data-number="8.5" class="anchored" data-anchor-id="links"><span class="header-section-number">8.5</span> Links</h2>
 <ul>
 <li><a href="https://www.nccs.admin.ch/nccs/de/home/massnahmen/pak/pilotprogramm-anpassung-an-den-klimawandel2.html">NCCS</a>
 <ul>
@@ -691,6 +676,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
