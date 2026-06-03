@@ -21,15 +21,15 @@
 
 | Datum     | Tag | Morgen                                                        | Mittag                    | Nachmittag                                     |
 |-----------|-----|---------------------------------------------------------------|---------------------------|------------------------------------------------|
-| 8.6.      | Mo  | Präsentation und Diskussion<br>Wetterausblick                 | Mittagessen in  der Mensa | Exkursion Breitenrainplatz Stadt Bern (Rundgang)      |
-| 9.6.      | Di  | Besuch Swisstopo 09:00-11:30 Uhr<br>Eigener Laptop mitbringen | Mittagessen individuell   | Besuch BAFU                                           |
-| 10.6.     | Mi  | Besuch WSL<br>Reise nach Zürich mit IC1 um 08:31 Uhr Bhf Bern | Picknick mitbringen       | Besuch Agroscope<br>Rückkehr individuell. Z.B. von Zürich, Reckenholz  um 16:28 Uhr                              |
-| 11.6.     | Do  | Kanton Freiburg<br>Reise nach Freiburg mit IR15 um 09:04 Uhr Bhf Bern                 | Picknick mitbringen       | MeteoSuisse, Payerne<br>Rückkehr individuell                           |
-| 12.6.     | Fr  | Drought experiment (Biology, Uni Bern)<br>Um 09:00 Uhr zu Fuss vom GIUB zur Forschungsstation im Bremgartenwald                       | Picknick mitbringen       | Burgergemeinde Bern<br>Nach dem Picknick gemeinsam zu Fuss zum Forstbetrieb                            |
+| 8.6.      | Mo  | **Präsentationen und Diskussion**<br>Wetterausblick<br>09:15 GIUB 001 | Mittagessen in  der Mensa | **Rundgang Stadtklima**<br>Kontakt: C. Gwerder & S. Mannes (Stadtgrün Bern)    |
+| 9.6.      | Di  | **Swisstopo**<br>Kontakt: Dr. David Oesch<br>Treffpunkt 8:50, [Seftigenstrasse 264, Bern](https://maps.app.goo.gl/EgW2YDU1h4EkCxvL8)<br>Eigenen Laptop mitbringen | Mittagessen individuell   | **Bundesamt für Umwelt**<br>Kontakt: Dr. Fabia Hüsler und Dr. Yannick Barton<br>[Mühlestrasse 2, Ittingen](https://maps.app.goo.gl/pKDwvJZKDqnXHK7g6)|
+| 10.6.     | Mi  | **WSL**<br>Reise nach Zürich mit IC1 um 08:31 Uhr Bhf Bern (reservierter Wagen) | Picknick mitbringen       | **Agroscope**<br>Rückkehr individuell. Z.B. von Zürich, Reckenholz um 16:28 Uhr                    |
+| 11.6.     | Do  | **Kanton Freiburg**<br>Kontakt: Jean-Claude Raemy<br>Reise nach Freiburg mit IR15 um 09:04 Uhr Bhf Bern (reservierter Wagen)<br>Danach Zug 11:32 nach Payerne| Picknick mitbringen | **MeteoSchweiz**<br>Payerne<br>Rückkehr individuell                           |
+| 12.6.     | Fr  | **Trockenheit Experiment**<br>Biology, Uni Bern<br>Treffpunkt: 09:00 Uhr, danach zu Fuss vom GIUB zur Forschungsstation im Bremgartenwald<br>Nach Führung gemeinsam zu Fuss zum Forstbetrieb Burgergemeinde | Picknick mitbringen | **Forstwirtschaft Burgergemeinde Bern**<br>Kontakt: Philipp Egloff                            |
 | 13.6.     | Sa  | Kein Programm                                                 | Kein Programm             | Kein Programm                                  |
-| 14.6.     | So  | Kein Programm                                                 | Kein Programm             | Reise ins Wallis mit IC6 um 16:07 Uhr Bhf Bern<br>Gemeinsames Nachtessen im Restaurant Traube |
-| 15.6.     | Mo  | Integrales Wasserressourcenmanagement, Naters                 |Picknick mitbringen        | Integrales Wasserressourcenmanagement, Naters<br>Fireside input<br>Gemeinsames Nachtessen in Leuk |
-| 16.6.     | Di  | Drought experiment Pfynwald (WSL)                             |Picknick mitbringen        | Wildfire Leuk<br>Rückkehr nach Bern mit R91 um 16:30 Uhr Bhf Leuk               |
+| 14.6.     | So  | Kein Programm                                                 | Kein Programm             | Reise ins Wallis mit IC6 um 16:07 Uhr Bhf Bern (reservierter Wagen) |
+| 15.6.     | Mo  | **Integrales Wasserressourcenmanagement**, Naters                 |Picknick mitbringen        | **Integrales Wasserressourcenmanagement**, Naters<br>Fireside input<br>Gemeinsames Nachtessen in Leuk (Pizza bestellen) |
+| 16.6.     | Di  | **Trockenheit Experiment**<br>Pfynwald, WSL                        |Picknick mitbringen        | **Waldbrand Leuk**<br>Rückkehr nach Bern mit R91 um 16:30 Uhr Bhf Leuk               |
 
 ## Gruppen
 

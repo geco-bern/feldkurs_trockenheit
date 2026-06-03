@@ -22,6 +22,9 @@ Die Dateien können jedoch auch über einen API-Zugang, welcher von Meteo Schwei
 
 Das folgende Skript demonstriert, wie man die täglichen Daten der Station Bern-Zollikofen seit Messbeginn in `R` herunterladen kann.
 
+```{r}
+#| eval: false
+
 library(purrr)
 library(lubridate)
 library(dplyr)
@@ -82,6 +85,7 @@ Das folgende Skript demonstiert, wie man die täglichen Daten der Station Bern-Z
 
 ```{python}
 #| eval: false
+
 import os
 from pathlib import Path
 from urllib.request import urlretrieve
@@ -293,6 +297,7 @@ walk2(
 - [BAFU Trockenheitsplattform](https://www.trockenheit.admin.ch/en)
 - [Wasserentnahme bei Trockenheit, Kanton Bern](https://www.bvd.be.ch/de/start/themen/wasser/wassernutzung/wasserentnahmen-bei-trockenheit.html)
 - [CH2025 Klimaszenarien](https://www.nccs.admin.ch/nccs/en/home/climate-change-and-impacts/schweizer-klimaszenarien-ch2025.html)
+- [Swisstopo slides](https://docs.google.com/presentation/d/11T62lpiYfK4LClO4i1j7SS_oyMYeUALd/edit?usp=sharing&ouid=111042193407943312697&rtpof=true&sd=true)
 
 
 
