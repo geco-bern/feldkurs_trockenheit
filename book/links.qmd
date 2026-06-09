@@ -297,7 +297,8 @@ walk2(
 - [BAFU Trockenheitsplattform](https://www.trockenheit.admin.ch/en)
 - [Wasserentnahme bei Trockenheit, Kanton Bern](https://www.bvd.be.ch/de/start/themen/wasser/wassernutzung/wasserentnahmen-bei-trockenheit.html)
 - [CH2025 Klimaszenarien](https://www.nccs.admin.ch/nccs/en/home/climate-change-and-impacts/schweizer-klimaszenarien-ch2025.html)
-- [Swisstopo slides](https://docs.google.com/presentation/d/11T62lpiYfK4LClO4i1j7SS_oyMYeUALd/edit?usp=sharing&ouid=111042193407943312697&rtpof=true&sd=true)
+- [Swisstopo slides](https://docs.google.com/presentation/d/11T62lpiYfK4LClO4i1j7SS_oyMYeUALd/edit?usp=sharing&ouid=112972748771546526901&rtpof=true&sd=true)
+- [Swisstopo Drought](https://www.swisstopo.admin.ch/en/drought)
 
 
 
