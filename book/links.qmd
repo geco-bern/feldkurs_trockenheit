@@ -299,6 +299,7 @@ walk2(
 - [CH2025 Klimaszenarien](https://www.nccs.admin.ch/nccs/en/home/climate-change-and-impacts/schweizer-klimaszenarien-ch2025.html)
 - [Swisstopo slides](https://docs.google.com/presentation/d/11T62lpiYfK4LClO4i1j7SS_oyMYeUALd/edit?usp=sharing&ouid=112972748771546526901&rtpof=true&sd=true)
 - [Swisstopo Drought](https://www.swisstopo.admin.ch/en/drought)
+- [Access SwissEO in QGIS](https://github.com/swisstopo/topo-satromo/blob/main/codegallery/desktop/qgis/qgis-cog.md)
 
 
 
